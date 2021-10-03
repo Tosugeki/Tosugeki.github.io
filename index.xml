@@ -13,7 +13,7 @@
       <pubDate>Tue, 28 Sep 2021 23:31:40 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>这是我的第一篇博客</description>
+      <description>这是我的第一篇博客 在创建博客的时候，我错误的填写了仓库的地址名称，导致无法在github desktop中推送到github上 解决方法：在github网站中找到了写错的内容并删除</description>
     </item>
     
   </channel>
